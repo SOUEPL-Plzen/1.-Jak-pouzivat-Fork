@@ -2,7 +2,7 @@
 # Fork
 
 ## Co je Fork?
-Fork je proces, při kterém se vytvoří kopie existujícího projektu, což umožňuje jeho další samostatný vývoj, aniž by se zasahovalo do původní verze. V prostředí verzovacích systémů, jako je Git, se používá pro práci na nových funkcích, opravách chyb nebo experimentování s kódem, aniž by se ovlivnila hlavní větev projektu. Fork poskytuje vývojářům svobodu testovat a vylepšovat projekt podle svých představ. V tomto návodu si ukážeme, jak si Fork nainstalovat a začít s ním pracovat.
+Fork je proces, při kterém se vytvoří kopie existujícího projektu, což umožňuje jeho další samostatný vývoj, aniž by se zasahovalo do původní verze. V prostředí verzovacích systémů, jako je Git, se používá pro práci na nových funkcích, opravách chyb nebo experimentování s kódem, aniž by se ovlivnila hlavní větev projektu. Fork poskytuje vývojářům svobodu testovat a vylepšovat projekt podle svých představ. V tomto návodu si ukážeme, jak si Fork nainstalovat a začít s ním pracovat. Také zde najdeš i obrázky díky kterým uvidíš jak přesněji postupovat.
 
 ## Instalace a nastavení Fork
 
